@@ -15,5 +15,3 @@ A minimal and intuitive ToDo application built with **React**, **Tailwind CSS**,
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
-
-
